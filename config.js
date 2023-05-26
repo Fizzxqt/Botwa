@@ -35,28 +35,28 @@ global.namesesi = 'rullzy.data'//.json
 global.chisato = 'https://telegra.ph/file/ba45593f90a12008abfb4.jpg'
 global.qr = 'https://telegra.ph/file/21e252f71926f7fa0c931.jpg' //Buat Ganti Thumb Qr Gopay Lu
 global.logotime = 'https://telegra.ph/file/8e9bf0c5db8ec095a85bc.jpg' //Jan Diubah Eror Nanges
-global.sig = 'https://instagram.com/khoirul36_'
-global.syt = 'https://youtube.com/channel/UC1oSMQCd3XKVxYwSh4RE2Nw'
+global.sig = 'https://instagram.com/fizzx24?igshid=MzRlODBiNWFlZA=='
+global.syt = 'https://youtube.com/@imfizzx8729'
 global.sgh = 'https://github.com/Carisendiri:v'
-global.sgc = 'https://chat.whatsapp.com/KOxDMDVKO8h9pS8abkaax6'
-global.swa = 'wa.me/6287753812675'
-global.swb = 'https://'
+global.sgc = 'https://chat.whatsapp.com/DDTP4VcMOeJAOb3BOGGrBH'
+global.swa = 'wa.me/6288294951448'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
-global.pdana = '-'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '-'
+global.pdana = '088294951448'
+global.povo = '088294951448'
+global.pgopay = '088294951448'
+global.ppulsa = '088294951448'
 global.ppulsa2 = '-'
-global.psaweria = 'https://bit.ly/3eggcxd'
+global.psaweria = 'https://saweria.co/fizzx40'
 /*InfoBot*/
-global.nomorbot = '-'
-global.nomorown = '6287753812675'
-global.namebot = 'Legacy Bot'
-global.nameown = 'KhrlMstfa'
+global.nomorbot = '088294951448'
+global.nomorown = '6288296172396'
+global.namebot = 'Meyy Bot'
+global.nameown = 'Fizzx'
 global.rul = 'https://telegra.ph/file/0a4fa7e5726f921ac52b7.jpg' //Jangan Diapus Ya Kids Nanti Eror Nangis Haha
 /*StaffBot*/
 global.owner = [
-  ['6287753812675', 'Rull', 'true']
+  ['6288296172396', 'Rull', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
